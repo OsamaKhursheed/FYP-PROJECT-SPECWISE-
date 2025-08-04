@@ -1,6 +1,6 @@
 # FYP-PROJECT-SPECWISE-
 SpecWise is an AI-based web app that suggests optimal PC hardware based on software needs using LLMs and real-time web scraping. It helps users, especially non-tech users, build performance-efficient and cost-effective PC setups.
-(Mockup.png)
+![SpecWise Mockup](./Mockup.png)
 # 💻 SpecWise – Intelligent PC Hardware Suggestions
 
 **SpecWise** is an AI-powered web platform that recommends the most suitable PC hardware configurations based on your software needs. Designed especially for non-technical users, it uses Large Language Models (LLMs), machine learning, and real-time web scraping to provide performance-efficient and budget-friendly PC build suggestions.
